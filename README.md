@@ -1,12 +1,5 @@
 # BDD + Cypress Web Automation
 
-Previously already completed the assessment as in the following link:
-
-Q1 : `git@gist.github.com:xxxxx1.git`
-Q2 : `git@gist.github.com:xxxxx2.git`
-Q3 : Endpoint Collection of API – import into Postman/Insomnia
-Q4 :
-
 Are you familiar with Automation Testing?
 If yes, create an automation script using any framework of your choice for the following scenario:
 • Go to [https://opensource-demo.orangehrmlive.com](https://opensource-demo.orangehrmlive.com)
@@ -23,7 +16,7 @@ If yes, create an automation script using any framework of your choice for the f
 
 ---
 
-## 🫺a Test Environments
+## Test Environments
 
 * Dashboard
 * Admin Management Page
@@ -106,11 +99,11 @@ Runs the test without opening the Cypress GUI.
 ![Dashboard](cypress/screenshots/Login OrangeHRM and Manage Admin -- User logs in with valid credentials (example #1).png)
 
 #### Add Admin Success
-![Search Admin 1](cypress/screenshots/Login OrangeHRM and Manage Admin -- Search for non-existent admin user (example #1).png)
-![Search Admin 2](cypress/screenshots/Login OrangeHRM and Manage Admin -- Add new admin user (example #2).png)
+![Search Admin 1](cypress/screenshots/add-new-admin-1.png)
+![Search Admin 2](cypress/screenshots/add-new-admin-2.png)
 
 #### Search Admin - Not Found
-![Admin Not Found](cypress/screenshots/Login OrangeHRM and Manage Admin -- Add new admin user (example #1).png)
+![Admin Not Found](cypress/screenshots/Search-for-non-existent-admin.png)
 
 ## 🧪 Headless Test Result
 
