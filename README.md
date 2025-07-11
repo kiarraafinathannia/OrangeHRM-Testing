@@ -96,7 +96,7 @@ Runs the test without opening the Cypress GUI.
 ### 📸 Cypress GUI Results
 
 #### Login Successful
-![Dashboard](cypress/screenshots/Login OrangeHRM and Manage Admin -- User logs in with valid credentials (example #1).png)
+![Dashboard](cypress/screenshots/login-with-valid-credentials.png)
 
 #### Add Admin Success
 ![Search Admin 1](cypress/screenshots/add-new-admin-1.png)
